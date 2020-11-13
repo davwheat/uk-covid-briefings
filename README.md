@@ -6,9 +6,24 @@ As with all information, you should back this up with information from other sou
 
 ## Contents <!-- omit in toc -->
 
+- [Organisation](#organisation)
+  - [Monthly READMEs](#monthly-readmes)
 - [Coronavirus briefings](#coronavirus-briefings)
   - [Data source](#data-source)
   - [Video modifications](#video-modifications)
+- [Coronavirus timeline](#coronavirus-timeline)
+
+## Organisation
+
+This repository is structured with folders for each month of the year(s). Inside those folders is a single text file (`README.md`) as well as the content for that month.
+
+### Monthly READMEs
+
+The README file will contain:
+
+- a list of that folder's contents
+- a summary of each video (main points, etc)
+- a link to that month's section in the [COVID Timeline](TIMELINE.md)
 
 ## Coronavirus briefings
 
@@ -30,3 +45,9 @@ There have been some modifications:
 
 - videos have been compressed to fit under GitHub's 100 MiB file size limit 
 - static intro and outro cards have been trimmed out (this can often account for over 20 mins of some raw videos, and is purely a waste of file size)
+
+## Coronavirus timeline
+
+This repo also contains a timeline of most large-scale changes in Coronavirus response and announcements.
+
+See [TIMELINE.md](TIMELINE.md).
