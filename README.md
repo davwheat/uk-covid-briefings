@@ -12,6 +12,7 @@ As with all information, you should back this up with information from other sou
   - [Data source](#data-source)
   - [Video modifications](#video-modifications)
 - [Coronavirus timeline](#coronavirus-timeline)
+- [Other content](#other-content)
 
 ## Organisation
 
@@ -51,3 +52,9 @@ There have been some modifications:
 This repo also contains a timeline of most large-scale changes in Coronavirus response and announcements.
 
 See [TIMELINE.md](TIMELINE.md).
+
+## Other content
+
+There is also a collection of other content, such as coronavirus briefing intros and outros, 119 phone calls, and example test result notifications.
+
+For more info, [see the Other content file](./Other%20content/README.md).
