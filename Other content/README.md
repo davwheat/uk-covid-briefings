@@ -6,6 +6,9 @@ This folder contains other content which is related to COVID-19, but is not gove
 
 - [Videos](#videos)
   - [National emergency: stay at home](#national-emergency-stay-at-home)
+  - [Coronavirus: how to use the NHS](#coronavirus-how-to-use-the-nhs)
+  - [How we're handling coronavirus](#how-were-handling-coronavirus)
+  - [R and how it affects social distancing measures](#r-and-how-it-affects-social-distancing-measures)
   - [How to take a coronavirus self-test swab](#how-to-take-a-coronavirus-self-test-swab)
   - ["We are apart for now" - Lockdown 1 cinematic](#we-are-apart-for-now---lockdown-1-cinematic)
 - [Other files](#other-files)
@@ -24,6 +27,26 @@ These include tutorials, such as how to use a home test kit, while others are in
 This video serves to inform people that they must stay at home due to the national emergency which is the Coronavirus outbreak.
 
 [Watch video](Videos/2020-04%20National%20emergency%20-%20stay%20at%20home.mp4)
+
+### Coronavirus: how to use the NHS
+
+This video informs people about how they can use the NHS to help with Coronavirus, as well as offering advice abut self-isolation.
+
+[Watch video](Videos/2020-05%20Coronavirus%20-%20how%20to%20use%20the%20NHS.mp4)
+
+### How we're handling coronavirus
+
+This video demonstrates what the UK is doing to help keep the effects of Coronavirus to as little as possible, including Job Retention Schemes, and more.
+
+[Watch video](Videos/2020-05%20How%20we're%20handling%20COVID.mp4)
+
+### R and how it affects social distancing measures
+
+This video explains how there are 5 tests which the UK must pass before social distancing measures can be reduced.
+
+The most important of these is "R", which determines the rate of infection. This was over 3 during March, but has now been reduced to less than 1.
+
+[Watch video](Videos/2020-05%20R%20and%20how%20it%20affects%20social%20distancing%20measures.mp4)
 
 ### How to take a coronavirus self-test swab
 
