@@ -5,6 +5,7 @@ This folder contains other content which is related to COVID-19, but is not gove
 ## Contents <!-- omit in toc -->
 
 - [Videos](#videos)
+  - [National emergency: stay at home](#national-emergency-stay-at-home)
   - [How to take a coronavirus self-test swab](#how-to-take-a-coronavirus-self-test-swab)
   - ["We are apart for now" - Lockdown 1 cinematic](#we-are-apart-for-now---lockdown-1-cinematic)
 - [Other files](#other-files)
@@ -17,6 +18,12 @@ This folder contains other content which is related to COVID-19, but is not gove
 The government have produced multiple videos to do with coronavirus.
 
 These include tutorials, such as how to use a home test kit, while others are informational, such as intros and outros to briefings.
+
+### National emergency: stay at home
+
+This video serves to inform people that they must stay at home due to the national emergency which is the Coronavirus outbreak.
+
+[Watch video](Videos/2020-04%20National%20emergency%20-%20stay%20at%20home.mp4)
 
 ### How to take a coronavirus self-test swab
 
