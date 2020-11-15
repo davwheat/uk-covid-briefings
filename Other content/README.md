@@ -1,8 +1,36 @@
-# Other COVID content
+# Other COVID content <!-- omit in toc -->
 
 This folder contains other content which is related to COVID-19, but is not governmental briefings.
 
-## File listing
+## Contents <!-- omit in toc -->
+
+- [Videos](#videos)
+  - [How to take a coronavirus self-test swab](#how-to-take-a-coronavirus-self-test-swab)
+  - ["We are apart for now" - Lockdown 1 cinematic](#we-are-apart-for-now---lockdown-1-cinematic)
+- [Other files](#other-files)
+  - [119 testing hotline](#119-testing-hotline)
+  - [Test results](#test-results)
+    - [COVID-19 app](#covid-19-app)
+
+## Videos
+
+The government have produced multiple videos to do with coronavirus.
+
+These include tutorials, such as how to use a home test kit, while others are informational, such as intros and outros to briefings.
+
+### How to take a coronavirus self-test swab
+
+This video, created by the Department of Health and Social Care on behalf of the NHS, details how you should use a coronavirus home testing kit.
+
+[Watch video](Videos/2020-05%20How%20to%20take%20a%20coronavirus%20self-test%20swab.mp4)
+
+### "We are apart for now" - Lockdown 1 cinematic
+
+This video was created to put people at ease, informing them that, while they may be apart for now, they will be together again soon, and that them abiding by the lockdown conditions helped key workers and the NHS to save lives.
+
+[Watch video](Videos/2020-05%20We%20are%20apart%20for%20now.mp4)
+
+## Other files
 
 ### 119 testing hotline
 
