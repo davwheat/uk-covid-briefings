@@ -11,10 +11,14 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         name: Checkout code
+        with:
+          ref: ${{ github.head_ref }}
+          fetch-depth: 0
 
       - name: Format
         uses: creyD/prettier_action@v3.1
         with:
           prettier_options: --write **/*.{md}
+          only_changed: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
