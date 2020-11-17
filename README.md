@@ -44,7 +44,7 @@ All meaningful video content has been left unedited for historic preservation.
 
 There have been some modifications:
 
-- videos have been compressed to fit under GitHub's 100 MiB file size limit 
+- videos have been compressed to fit under GitHub's 100 MiB file size limit
 - static intro and outro cards have been trimmed out (this can often account for over 20 mins of some raw videos, and is purely a waste of file size)
 
 ## Coronavirus timeline
