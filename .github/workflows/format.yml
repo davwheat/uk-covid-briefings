@@ -1,0 +1,20 @@
+name: Format markdown
+
+on:
+  push:
+
+jobs:
+  format:
+    runs-on: ubuntu-latest
+    name: Format
+
+    steps:
+      - uses: actions/checkout@v2
+        name: Checkout code
+
+      - name: Format
+        uses: creyD/prettier_action@v3.1
+        with:
+          prettier_options: --write **/*.{md}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
